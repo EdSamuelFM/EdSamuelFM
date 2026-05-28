@@ -22,4 +22,3 @@ I'm a **Junior Software Developer** currently pursuing a **Bachelor’s in Softw
 * **Location:** Brazil 🇧🇷 
 
 ---
-*"Always learning, always building."* 
